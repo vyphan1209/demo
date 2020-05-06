@@ -10,8 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //intatal
-            //hello
+            Console.Write("Hello word!!!");
         }
     }
 }
